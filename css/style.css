@@ -1,0 +1,46 @@
+/* --------------- Global --------------- */
+
+body{
+	font-family: 'Dosis', sans-serif;
+	font-size: 62.5%;
+	
+}
+
+/* --------------- Header --------------- */
+
+header{
+	background-color: gray;
+}
+
+.container{
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding: 2rem 3rem;
+}
+
+nav{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.link{
+	text-decoration: none;
+	margin: 0.3rem 0;
+	font-size: 1.6rem;
+}
+
+.name{
+	font-size: 3rem;
+}
+
+/* --------------- Footer --------------- */
+
+footer{
+	text-align: center;
+	font-size: 0.8rem;
+}
