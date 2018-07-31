@@ -1,0 +1,10 @@
+Next steps :
+
+-> Do u really need MVC model ? 
+-> Controllers are using Get method with AJAX ? to add view in layout.
+-> Model is only for getting back data in db => only use in english version.
+-> Views
+
+Need to prepare routing !
+=>https://code.tutsplus.com/tutorials/an-in-depth-guide-to-mod_rewrite-for-apache--net-6708
+=>https://httpd.apache.org/docs/current/fr/mod/mod_rewrite.html
